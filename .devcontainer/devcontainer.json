@@ -23,7 +23,7 @@
 	},
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "cd ./src && dotnet restore",
+	"postCreateCommand": "dotnet dev-certs https && cd ./src && dotnet restore",
 
 	// Configure tool-specific properties.
 	"customizations": {
