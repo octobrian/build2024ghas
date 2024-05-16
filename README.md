@@ -7,10 +7,8 @@ This repo contains a simple .NET 6 version of the 'Reading Time App' (web and un
 
 GitHub Advanced Security (GHAS) is a developer-first application security testing solution that brings GitHub's world-class security capabilities to public and private repositories. Most of GitHub Advanced Security features are free for public repositories but require a GitHub Advanced Security license for private repositories. It only takes a few clicks to get started. Right out of the box, you'll benefit from highly curated detection and remediation capabilities crafted by some of the world's best security engineers to ensure your code and software supply chain are as secure as possible. It's fully automated, so once enabled, you don't have to remember to run GHAS tests or wait for a security review before merging.
 
-© 2024 GitHub, Inc.
 
-<p align="center">
-  <img width="240" height="240" src="[https://github.com/octobrian/build2024ghas/assets/54138136/a121bbb8-4c3e-49a1-a23d-34f262b31935](https://github.com/octobrian/build2024ghas/assets/54138136/a121bbb8-4c3e-49a1-a23d-34f262b31935)">
-</p>
 
-![image](https://github.com/octobrian/build2024ghas/assets/54138136/fcf50808-d97a-4683-b1dc-3515a5376308)
+
+
+Copyright © 2024 GitHub, Inc.
