@@ -215,7 +215,7 @@ In this exercise, you'll examine the code scan results.
    
 4. Examine the various errors.
    
-   > The C# remediation will be the easiest because it's in 'our' code. The other ones make the remediation is a bit more complex because we need updates from the library provides.
+   > The C# remediation will be the easiest because it's in 'our' code. The other ones make the remediation a bit more complex because we need updates from the library providers.
    
 You just ran a CodeQL scan using the standard queries which identified vulnerabilities in the app's code as well as libraries used by it.
 
@@ -226,7 +226,7 @@ In this last exercise, you'll fix as many errors as possible that were detected 
 
 2. Click the **Switch branches** drop-down and select the **fix/ghas-found-issues** branch.
 
-3. If you click on the **Commits** link you'll see there four commits that appear to fix the security issues.
+3. If you click on the **Commits** link you'll see there three commits that appear to fix the security issues.
 
 4. Click on the **Pull Requests** button.
 
@@ -254,7 +254,7 @@ In this last exercise, you'll fix as many errors as possible that were detected 
 
 14. Click the **Security** button on the toolbar.
 
-15. Review the what issues are left.
+15. Review the what issues are left. You and GitHub need to work with the OSS community help report and if possible fix errors as they're found.
 
 GitHub Advanced Security will surface existing vulnerabilities and flag potential new problems before they're merged into your code. Keep your applications secure is a journey, not a destination. Tools like GHAS are an enormous help. But you are the key contributor to your team's and organization's success in building secure solutions.
 
