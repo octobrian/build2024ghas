@@ -14,6 +14,10 @@
       "provider": "jsdelivr",
       "library": "jquery-validation@1.20.0",
       "destination": "wwwroot/lib/jquery-validation/"
+    },
+    {
+      "library": "bootstrap@5.3.3",
+      "destination": "wwwroot/lib/bootstrap/"
     }
   ]
 }
