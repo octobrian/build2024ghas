@@ -11,7 +11,6 @@ namespace ReadingTime6.Web
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
-            var pat = "{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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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}";
         }
 
         public IConfiguration Configuration { get; }
